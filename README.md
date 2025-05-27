@@ -13,3 +13,10 @@ Enter your weight in kilograms.
 Enter your height in centimeters or meters.
 Click the Calculate button.
 View your BMI value and the corresponding BMI category.
+
+
+BMI Value	Category
+Less than 18.5	Underweight
+18.5 – 24.9	Normal weight
+25 – 29.9	Overweight
+30 and above	Obese
