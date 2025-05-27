@@ -1,14 +1,15 @@
+BMI Calculator
 
+A simple Body Mass Index (BMI) calculator that helps you determine your BMI based on your weight and height.
 
-# BMI Calculator 💪
+Features
 
-## Our Goal
+Calculate BMI using weight (kg) and height (cm or meters).
+Displays BMI category (Underweight, Normal, Overweight, Obese).
+Easy-to-use interface.
+How to Use
 
-The objective of this tutorial is to look at how we can customise Flutter Widgets to achieve our own beautiful user interface designs. If you have a designer on board, no matter how unconventional their designs are, we can create them using Flutter. 
-
-
-
-
-We’re going to make a Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). It will be a multi screen app with simple functionality but full-on custom styling. 
-
-
+Enter your weight in kilograms.
+Enter your height in centimeters or meters.
+Click the Calculate button.
+View your BMI value and the corresponding BMI category.
